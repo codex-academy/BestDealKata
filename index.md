@@ -19,7 +19,7 @@ We want to find the best place to buy some avocados. We like avocados because th
 Use this string as your starting point. Use TDD and write functions that:
 
 * convert the string into an array (split out the quantity and the price);
-* take an array as an input and calculate the Price Per Avo for each deal (make sure you use just two decimal points);
+* take an array as an input and calculate the Price Per Avo for each deal (make sure you use only two decimal points);
 * find the cheapest deal;
 * find the most expensive deal;
 * find the average price across all the deals.

@@ -23,3 +23,9 @@ Use this string as your starting point. Use TDD and write functions that:
 * find the cheapest deal;
 * find the most expensive deal;
 * find the average price across all the deals.
+
+Your code should also work for this string or any other similar string:
+
+```
+"1 for R4, 2 for R6.54, 3 for R11, 5 for R15.75"
+```
